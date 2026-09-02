@@ -56,5 +56,3 @@ public class Main {
 Thus, the Java program successfully demonstrates the creation and use of an inner class in Java.
 
 
-## OUTPUT:
-<img width="387" height="129" alt="image" src="https://github.com/user-attachments/assets/a06af543-b5ce-4b77-b17a-3dbe6948ce28" />
