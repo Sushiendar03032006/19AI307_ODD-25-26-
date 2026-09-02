@@ -95,5 +95,5 @@ Thus, the Java program successfully demonstrates interface implementation and po
 
 
 
-    public String predict(int temperature) {
+  
 
