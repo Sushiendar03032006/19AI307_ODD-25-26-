@@ -67,6 +67,13 @@ class prog {
         car2.brand = scanner.nextLine();
         car2.color = scanner.nextLine();
         car2.year = scanner.nextInt();
+        car1.printDetails();
+        car2.printDetails();
+
+        scanner.close();
+    }
+}
+
 ```
 ## OUTPUT:
 <img width="492" height="582" alt="image" src="https://github.com/user-attachments/assets/7040d6ff-0453-4b99-97cb-1ced88b04df1" />
