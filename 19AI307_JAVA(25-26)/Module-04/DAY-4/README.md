@@ -111,6 +111,4 @@ Therefore the program successfully creates and sends the appropriate notificatio
 
 
 
-    public void notifyUser() {
-        System.out.println("Sending Email Notification");
-Therefore the program successfully creates and sends the appropriate notification type using the Factory Pattern.
+  
