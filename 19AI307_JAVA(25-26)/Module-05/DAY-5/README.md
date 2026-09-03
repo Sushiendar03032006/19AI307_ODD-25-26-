@@ -69,5 +69,4 @@ Therefore the program successfully swaps two integers within a synchronized bloc
 
 
 
-## RESULT:
-Therefore the program successfully swaps two integers within a synchronized block, ensuring safe and controlled access.
+
